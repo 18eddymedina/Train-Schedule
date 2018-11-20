@@ -1,0 +1,21 @@
+#top{
+    width:80%;
+text-align: center;
+display: inline block;
+margin: auto;
+margin-bottom:5%;
+background-color: black;
+color: white;
+
+}
+.row{
+    margin:5%;
+    margin-top:0%;
+
+    margin-bottom:0%;
+
+display: inline block;
+}
+.table{
+    margin: auto;
+}
